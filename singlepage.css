@@ -54,11 +54,11 @@ table {
 */
 
 body {
-  font-size: 1.125em; /* 18px/16px = 1.125 */
-  line-height: 1.440000000000000002em; /* 25.92px/18px */
-  padding-top: 1.440000000000000002em; /* 25.92px/18px */
-  padding-left: 1.200em;
-  padding-right: 0.600em;
-  text-size-adjust: 100%;
+  font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+   font-size: 1.125em; /* 18px/16px = 1.125 */
+   line-height: 1.4400000000000002em; /* 25.92px / 18px */
+   padding-top: 1.4400000000000002em; /* 25.92px / 18px */
+   padding-left: 1.200em; /* 5:6 ratio on baseline */
+   padding-right: 0.600em; /* half the 5:6 ratio */
 }
 
