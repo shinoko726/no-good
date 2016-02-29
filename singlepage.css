@@ -60,6 +60,7 @@ body {
    padding-top: 1.4400000000000002em; /* 25.92px / 18px */
    padding-left: 1.200em; /* 5:6 ratio on baseline */
    padding-right: 0.600em; /* half the 5:6 ratio */
+
 }
 
 img {
@@ -67,5 +68,5 @@ img {
    max-width: 100%; /* Responsive images! Always be at most 100%
                        the width of the containing element
                        (<figure>, in this example's case) */
-   padding-bottom: 1.4400000000000002em; /* 25.92px / 18px */
+   padding-top: 1.4400000000000002em; /* 25.92px / 18px */
 }
